@@ -1,5 +1,5 @@
 {
-  "symbolsSrc": "./assets/images/symbols/",
+  "symbolsSrc": "/assets/images/symbols/",
   "symbols": [
     {
       "key": "wild",
@@ -24,6 +24,17 @@
     {
       "key": "berry",
       "fileName": "SYM7.png"
+    }
+  ],
+  "buttonsSrc": "/assets/images/buttons/",
+  "buttons": [
+    {
+      "key": "spin",
+      "fileName": "BTN_Spin.png"
+    },
+    {
+      "key": "spin_disabled",
+      "fileName": "BTN_Spin_d.png"
     }
   ]
 }
