@@ -4,6 +4,9 @@
   "main": "dist/index.js",
   "author": "MaxSvargal",
   "license": "MIT",
+  "scripts": {
+    "start": "node fuse"
+  },
   "dependencies": {
     "fuse-box": "^3.7.1",
     "pixi.js": "^4.8.7",
